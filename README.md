@@ -1,6 +1,15 @@
 ### Description
 
 Using `openweathermap` API to build a React projects.
+Creating an application to check the weather around the world!
+
+Functionality
+1. The user must be able to select the city and receive information about the weather (will it rain?, temperature?, next days?)
+2. You can use the Open Weather API to build your own Weather site!
+
+https://openweathermap.org/api
+
+
 
 
 
